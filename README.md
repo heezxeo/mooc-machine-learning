@@ -1,9 +1,14 @@
-# Introduction
+## Introduction
 The following repository stores the machine learning code done in Jupyter for EDX Supervised Machine Learning Course. 
 
-📂 Data: MNIST datasets on images
-
-📂 Code: Final code with data exploration, preprocessing and experiment
+```
+├── README.md                     # Project Description
+├── data/
+│   ├── test/                     # Test Dataset
+│   └── train/                    # Training Dataset
+│
+└── code/                         # Jupyter Code
+```
 
 ## Skills
 
